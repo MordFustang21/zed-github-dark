@@ -1,0 +1,9 @@
+{
+  "name": "GitHub Dark",
+  "version": "0.0.1",
+  "authors": [
+    "MordFustang21"
+  ],
+  "description": "A modified port of the GitHub VSCode theme",
+  "repository": "https://github.com/mordfustang21/zed-github-dark"
+}
