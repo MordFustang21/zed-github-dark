@@ -1,9 +1,9 @@
 {
-  "name": "GitHub Dark",
+  "name": "GitHub Dark Default",
   "author": "GitHub: Zed Theme Importer/MordFustang21",
   "themes": [
     {
-      "name": "GitHub Dark",
+      "name": "GitHub Dark Default",
       "appearance": "dark",
       "style": {
         "border": "#30363d",
