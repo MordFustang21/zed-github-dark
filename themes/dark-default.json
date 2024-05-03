@@ -132,9 +132,9 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": null,
-        "warning.background": null,
-        "warning.border": null,
+        "warning": "#cc534e",
+        "warning.background": "#161b22",
+        "warning.border": "#30363d",
         "players": [],
         "syntax": {
           "comment": {
