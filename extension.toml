@@ -1,0 +1,7 @@
+id = "github-dark-default"
+name = "GitHub Dark Default"
+version = "1.0.5"
+schema_version = 1
+authors = ["MordFustang21"]
+description = "A modified port of the GitHub VSCode theme"
+repository = "https://github.com/mordfustang21/zed-github-dark"
