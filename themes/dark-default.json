@@ -137,6 +137,11 @@
         "warning.border": "#30363d",
         "players": [],
         "syntax": {
+	  "boolean": {
+	    "color": "#79c0ff",
+	    "font_style": null,
+	    "font_weight": null
+	  },
           "comment": {
             "color": "#8b949e",
             "font_style": null,
