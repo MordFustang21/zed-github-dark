@@ -64,8 +64,8 @@
         "editor.active_wrap_guide": "#30363d",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-	"editor.indent_guide": "#2f3337ff",
-	"editor.indent_guide_active": "#666870ff"
+        "editor.indent_guide": "#2f3337ff",
+        "editor.indent_guide_active": "#666870ff",
         "terminal.background": "#0d1117",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
@@ -139,11 +139,11 @@
         "warning.border": "#30363d",
         "players": [],
         "syntax": {
-	  "boolean": {
-	    "color": "#79c0ff",
-	    "font_style": null,
-	    "font_weight": null
-	  },
+          "boolean": {
+            "color": "#79c0ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "comment": {
             "color": "#8b949e",
             "font_style": null,
@@ -249,11 +249,11 @@
             "font_style": null,
             "font_weight": null
           },
-					"type": {
+          "type": {
             "color": "#79c0ff",
             "font_style": null,
             "font_weight": null
-					},
+          },
           "variable.special": {
             "color": "#79c0ff",
             "font_style": null,
